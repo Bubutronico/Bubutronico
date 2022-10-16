@@ -1,13 +1,3 @@
-- 👋 Hi, I’m Javier Espinoza, Mechatronic Engineer & Dev
-- 👀 I’m interested in Game Development, Computer Vision and Machine Learning
-- 🚀 I’m currently learning Python
-- ⚡ I have been working with Unreal Engine for 2 years, developing VR environments 🎮
-- ➡️ https://www.linkedin.com/in/javiem/
-
-<!---
-Bubutronico/Bubutronico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # 💫 About Me:
 👋 Hi, I’m Javier Espinoza, Mechatronic Engineer & Dev<br>👀 I’m interested in Game Development, Computer Vision and Machine Learning<br>🚀 I’m currently learning Python<br>⚡ I've been working with Unreal Engine for 3 years 🎮
 
@@ -24,3 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bubutronico&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!---
+Bubutronico/Bubutronico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
