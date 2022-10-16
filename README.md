@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Javier Espinoza, Mechatronic Engineer & Dev<br>👀 I’m interested in Game Development, Computer Vision and Machine Learning<br>🚀 I’m currently learning Python<br>⚡ I've been working with Unreal Engine for 3 years 🎮
+👋 Hi, I’m Javier Espinoza, Mechatronic Engineer & Dev<br>👀 I’m interested in Game Development, Computer Vision and Machine Learning<br>🚀 I’m currently learning Python<br>⚡ I've been working with Unreal Engine for 3 years 🎮<br> Expertise on Unity 3D
 
 
 ## 🌐 Socials:
